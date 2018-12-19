@@ -5,7 +5,7 @@
   "main": "bot.js",
   "author": "Ali Afzal",
   "dependencies": {
-    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.io": "**************",
     "winston": "^3.1.0"
   }
 }
