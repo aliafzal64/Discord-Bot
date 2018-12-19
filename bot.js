@@ -33,26 +33,26 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'Pong!'
                 });
             break;
-            var photo = "./image/drobby.png";
+            var photo = "*********"
             case 'drobby':
               bot.sendMessage({
                 to: channelID,
-                message: 'rolley on my wrist, cost a bust down',
+                message: '************',
                 files: [photo]
               })
             break;
 
-            case 'bestyoutubechannelever':
+            case '********':
               bot.sendMessage({
                 to: channelID,
-                message: 'https://www.youtube.com/user/TheKrazyMachine'
+                message: '************'
               })
             break;
 
-            case 'sadniggahours':
+            case '*********':
               bot.sendMessage({
                 to:channelID,
-                message: 'https://www.youtube.com/watch?v=nwyjxsOYnys'
+                message: '***********'
               })
             break;
             // Just a:dd any case commands if you want to..
